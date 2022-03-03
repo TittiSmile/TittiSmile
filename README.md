@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Titti from Italy and I'm a Computer Science student. 
+- 🔭 I like learning new programming languages and I'm interested in knowing about backend and fronted development. 
+      I also have knowlege about ANN and Machine Learning. 
+- 👨‍💻I like coding and find useful solution for frequent problems
+- 💯 My goals are get my Bachelor ASAP and improve myself in coding and team work!
+
+
