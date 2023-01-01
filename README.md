@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 I'm Titti from Italy and I'm a Computer Science student. 
-- 🔭 I like learning new programming languages and I'm interested in knowing about backend and fronted development. I also have knowlege about ANN and Machine Learning. 
+- 🌱 I like learning new programming languages and I'm interested in knowing about backend and fronted development. I also have knowlege about ANN and Machine Learning. 
+- 🔭 I'm currently working as Data Engineer but I really like OO programming
 - 👨‍💻I like coding and find useful solution for frequent problems
-- 💯 My goals are get the degree ASAP and improve myself in coding and team work!
+- 💯 My goal is improve myself in coding and team work!
 - ⚡ Fun fact about me: I'm very good at soccer ⚽ but hey, none knows 
 
 
